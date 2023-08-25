@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\Hotel.API"
+    ""
   ],
-  "SelectedNode": "\\src\\Hotel.API\\Program.cs",
+  "SelectedNode": "\\backendHotel.sln",
   "PreviewInSolutionExplorer": false
 }
