@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Hotel.Domain.Models
 {
-    internal class Cliente
+    public class Client
     {
-        public Cliente()
+        public Client()
         {
             Id = Guid.NewGuid();
         }

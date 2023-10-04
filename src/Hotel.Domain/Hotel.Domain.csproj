@@ -12,8 +12,4 @@
     <None Remove="NovaPasta\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="HotelModelos\" />
-  </ItemGroup>
-
 </Project>

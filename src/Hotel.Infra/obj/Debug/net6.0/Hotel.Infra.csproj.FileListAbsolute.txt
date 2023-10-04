@@ -1,11 +1,14 @@
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\bin\Debug\net6.0\Hotel.Infra.deps.json
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\bin\Debug\net6.0\Hotel.Infra.dll
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\bin\Debug\net6.0\Hotel.Infra.pdb
+C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\bin\Debug\net6.0\Hotel.Domain.dll
+C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\bin\Debug\net6.0\Hotel.Domain.pdb
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.csproj.AssemblyReference.cache
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.AssemblyInfoInputs.cache
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.AssemblyInfo.cs
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.csproj.CopyComplete
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.dll
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\refint\Hotel.Infra.dll
 C:\Users\cezar\source\repos\backendHotel\src\Hotel.Infra\obj\Debug\net6.0\Hotel.Infra.pdb
